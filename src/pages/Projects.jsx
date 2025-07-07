@@ -3,12 +3,12 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 const projects = [
   {
     title: "Hostel Mess Menu App",
-    image: "/assets/mess-app.png", // Add your image or use a placeholder
+    image: "src/assets/mess.png", // Add your image or use a placeholder
     description:
       "Built a dynamic React-based single-page application for hostel mess menu management with real-time updates and responsive UI.",
     tech: ["React", "JavaScript", "Tailwind CSS"],
-    github: "https://github.com/yourusername/mess-menu-app", // Replace with actual URL
-    live: "https://your-live-url.com", // Replace with live link if available
+    github: "https://github.com/SanidhyaAulakh/cu-mess-menu", // Replace with actual URL
+    live: "https://cu-mess-menu.vercel.app/", // Replace with live link if available
   },
   {
     title: "IoT Health Monitoring Device",
